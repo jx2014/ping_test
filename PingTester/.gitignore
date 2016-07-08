@@ -1,0 +1,5 @@
+*.pyc
+*.log
+msvcr90.dll
+build/
+dist/
